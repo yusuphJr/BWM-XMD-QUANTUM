@@ -10,7 +10,7 @@
   "env": {
     "PREFIX": {
       "description": "Choose your prefix for your bot",
-      "value": "*$",
+      "value": ".",
       "required": true
     },
     "AUTO_REJECT_CALL": {
@@ -100,7 +100,7 @@
     },
     "PRESENCE": {
       "description": "Presence mode: 1=online, 2=typing, 3=recording",
-      "value": "3",
+      "value": "1",
       "required": false
     },
     "ANTIDELETE_SENT_INBOX": {
